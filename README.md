@@ -9,9 +9,11 @@ I am passionate about programming, music, and learning new things. I am good at 
 - JavaScript.
 - HTML.
 - CSS.
+- Sass.
 - JavaScript.
 - React JS.
 - Node JS.
+- PostgreSQL.
 
 ### Socials
 - [GitHub](https://github.com/CodeInTheIzzyverse)
