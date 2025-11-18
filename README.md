@@ -5,15 +5,23 @@ I am passionate about programming, music, and learning new things. I am good at 
 - Do you want to contact me? [dev.izzyverse@gmail.com](dev.izzyverse@gmail.com)
 
 ### Skills
-- Git.
+- Git/github.
 - JavaScript.
 - HTML.
 - CSS.
 - Sass.
 - JavaScript.
+- TypeScript.
+- Streamlit.
 - React JS.
-- Node JS.
+- Node JS + express JS.
+- Python.
+- Supabase.
 - PostgreSQL.
+- Airtable.
+- Fillout.
+- N8N.
+- Power BI.
 
 ### Socials
 - [GitHub](https://github.com/CodeInTheIzzyverse)
