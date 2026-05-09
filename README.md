@@ -25,6 +25,7 @@ I am passionate about programming, music, and learning new things. I am good at 
 
 ### Socials
 - [GitHub](https://github.com/CodeInTheIzzyverse)
+- [GitHub 2](https://github.com/Isa-Bedoya-UdeA/Isa-Bedoya-UdeA)
 - [YouTube](https://www.youtube.com/channel/UCUfp7sAPE9zsoeyPY2W3seg)
 
 <!---
