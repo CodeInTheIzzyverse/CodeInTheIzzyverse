@@ -32,3 +32,5 @@ I am passionate about programming, music, and learning new things. I am good at 
 Agregar canal de youtube de programación y de musica, y enlace a portafolio web.
 ⚡ Fun fact: I make covers and music tutorials.
 --->
+
+<a href='https://ko-fi.com/I6J323XCNI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
